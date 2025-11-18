@@ -3,3 +3,4 @@ A future repo for a futuristic mirror.
 Hi! I am Plexecor.
 Currently a high school student.
 Messing around with git.
+I wanna make this dream happen.
